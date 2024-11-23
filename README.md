@@ -11,11 +11,10 @@
   🚀 Passionate about building modern, responsive web applications that solve real-world problems.
 </p>
 
-- 🔭 **I’m currently working on:**  
-  A Bus Management System featuring real-time reservation and tracking functionality.  
+ 
 
 - 🌱 **I’m currently learning:**  
-  Advanced React patterns, serverless architectures, and Cloudinary integration.  
+  Advanced React patterns, serverless architectures, and Nextjs.  
 
 - ⚡ **Fun fact:**  
   I learn things **very quickly** and love exploring new technologies!
