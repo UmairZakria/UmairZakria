@@ -11,6 +11,7 @@
 🚀 Self-taught and hands-on web developer with a deep focus on building modern, scalable, and responsive web applications. I thrive on crafting clean UI/UX with performance in mind, using today's most powerful technologies.
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=UmairZakria)
 ---
 
 ### 🌱 Currently Learning & Exploring
