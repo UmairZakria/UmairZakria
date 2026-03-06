@@ -3,7 +3,11 @@
 <h3 align="center">Full-Stack Web Developer | React & Next.js | UI/UX + Animations Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding GIF" />
+   //     //   ////        ////       ////        //////    ////////
+   //     //   // //      // //      //  //         //      //    //
+   //     //   //  //    //  //     //    //        //      ////////
+   //     //   //   //  //   //    //////////       //      //  //
+   /////////   //    ////    //   //        //    //////    //    //
 </p>
 
 <p align="center">
