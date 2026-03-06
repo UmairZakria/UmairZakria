@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Umair Zakria</h1>
 <h3 align="center">Full-Stack Web Developer | React & Next.js | UI/UX + Animations Enthusiast</h3>
 
-<p align="center">
+<p >
    //     //   ////        ////       ////        //////    ////////
    //     //   // //      // //      //  //         //      //    //
    //     //   //  //    //  //     //    //        //      ////////
