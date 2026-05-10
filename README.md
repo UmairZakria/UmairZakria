@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Umair Zakria</h1>
+<h1 align="center">Hi, I'm Umair Zakria</h1>
 <h3 align="center">Full-Stack Web Developer | React • Next.js • UI/UX • Animations</h3>
 
 <div align="">
@@ -39,38 +39,6 @@ Currently working on:
 • ⚡ **Performance-optimized Next.js apps**
 
 I enjoy turning **ideas into polished digital products** with attention to **performance, design, and scalability**.
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/gsap.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/framer.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Babylon_logo_v4.svg" width="40"/>
-
-### Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
-### Databases
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-
-### Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-
----
 
 # 📂 Featured Projects
 
